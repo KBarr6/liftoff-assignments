@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+All Aboard is a social gaming networking application that allow users to connect with other gamers of like minded interest within local clubs in their neighborhood. The users will be able to filter by distance and by different game categories. 
 ### Features
-Include Features here
+Features included in the app:
+User Profile Creation - Allows the user to create a password protected account. They will also have the ability to display a unique name with social facing.  
+Game Groups - Allows users to create individual gaming groups in which they can post. 
+Map Feature - Allows users to filter which games / clubs they are interested in by distance.
+Picture Uploading - Allows users to create profile pictures and share photos inside their gaming groups. 
+Commenting / Messaging - Allows user to comment underneath posts and or pictures. 
 ### Technologies
-Include Technologies here
+Java
+SpringBoot
+mySQL
+ThymeLeaf
+Angular
+Google Map API
 ### What I'll Have to Learn
-Include what you will need to learn here
+We'll have to learn how to store, and use use photos in a way that they do not lose resolution. Also, how to intergrate location service APIs and potentionaly other APIs as well as other things that may arise. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/B2bqXDvB/all-aboard
+
